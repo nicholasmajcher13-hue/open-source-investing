@@ -1,0 +1,52 @@
+[
+  {
+    "symbol": "COST",
+    "purchaseOpen": 1064.114990234375,
+    "price": 1064.255,
+    "previousClose": 1066.1800537109375,
+    "timestamp": 1794331056,
+    "purchaseDate": "2026-11-10",
+    "source": "https://query1.finance.yahoo.com/v8/finance/chart/COST?interval=1d&range=5d",
+    "retrievedAt": "2026-11-10T17:17:38.189920+00:00"
+  },
+  {
+    "symbol": "SCHW",
+    "purchaseOpen": 93.27999877929688,
+    "price": 93.519,
+    "previousClose": 92.7300033569336,
+    "timestamp": 1794331035,
+    "purchaseDate": "2026-11-10",
+    "source": "https://query1.finance.yahoo.com/v8/finance/chart/SCHW?interval=1d&range=5d",
+    "retrievedAt": "2026-11-10T17:17:38.383847+00:00"
+  },
+  {
+    "symbol": "GOOGL",
+    "purchaseOpen": 289.1099853515625,
+    "price": 287.2,
+    "previousClose": 288.1499938964844,
+    "timestamp": 1794331056,
+    "purchaseDate": "2026-11-10",
+    "source": "https://query1.finance.yahoo.com/v8/finance/chart/GOOGL?interval=1d&range=5d",
+    "retrievedAt": "2026-11-10T17:17:38.294709+00:00"
+  },
+  {
+    "symbol": "GEV",
+    "purchaseOpen": 755.530029296875,
+    "price": 770.6,
+    "previousClose": 829.3400268554688,
+    "timestamp": 1794331053,
+    "purchaseDate": "2026-11-10",
+    "source": "https://query1.finance.yahoo.com/v8/finance/chart/GEV?interval=1d&range=5d",
+    "retrievedAt": "2026-11-10T17:17:38.296465+00:00"
+  },
+  {
+    "symbol": "VOO",
+    "purchaseOpen": 687.5800170898438,
+    "price": 687.18,
+    "previousClose": 691.8699951171875,
+    "timestamp": 1794331055,
+    "purchaseDate": "2026-11-10",
+    "source": "https://query1.finance.yahoo.com/v8/finance/chart/VOO?interval=1d&range=5d",
+    "retrievedAt": "2026-11-10T17:17:38.237728+00:00"
+  }
+]
